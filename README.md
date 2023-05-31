@@ -60,9 +60,7 @@ Per utilizzare gli utenti usati per testare il programma:
 
 * ***Amministratore*** -> username: 3, password: 3
 
-Questo progetto è stato sviluppato utilizzando ***IntelliJ IDEA Community Edition***.
-
-Per poter eseguire correttamente il progetto utilizzando un IDE diverso come ***Eclipse***, assicurati di importare correttamente le librerie esterne da [Progetto/lib](Progetto/lib)
+Questo progetto è stato sviluppato utilizzando ***IntelliJ IDEA Community Edition***. Per poter eseguire correttamente il progetto utilizzando un IDE diverso come ***Eclipse***, assicurati di importare correttamente le librerie esterne da [Progetto/lib](Progetto/lib)
 
 --------------------------------------------------------------------------------------------------
 

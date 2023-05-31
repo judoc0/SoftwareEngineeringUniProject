@@ -28,17 +28,17 @@ contenute classi nel package ***DAO***.
 La documentazione deve essere
 composta da un unico documento con frontespizio e indice, contenente: 
 
-(1) analisi dei requisiti,
+1. analisi dei requisiti,
 
-(2) progettazione ***UML*** dell’architettura software, 
+2. progettazione ***UML*** dell’architettura software, 
 
-(3) esplicita indicazione dei ***design pattern*** adottati, 
+3. esplicita indicazione dei ***design pattern*** adottati, 
 
-(4) progettazione concettuale e logica della base dati, 
+4. progettazione concettuale e logica della base dati, 
 
-(5) esiti degli ***unit test*** eseguiti, 
+5. esiti degli ***unit test*** eseguiti, 
 
-(6) ***Scrum sprint backlog*** e ***burndown chart***.
+6. ***Scrum sprint backlog*** e ***burndown chart***.
 
 Per consultare la doumentazione andare a vedere il file pdf [Progetto_PIS.pdf](Progetto_PIS.pdf)
 

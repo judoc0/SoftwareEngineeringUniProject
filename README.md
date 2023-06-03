@@ -92,7 +92,7 @@ Dopo circa un anno, ho deciso di caricare il progetto su github, ma non prima di
 	***NewProdottoPanel*** a ***NewProdottoPanelListener***
 
 
-*	Nella documentazione pdf ho dimenticato di dichiare che per ho usato il ***Composite Pattern*** per le classi
+*	Nella documentazione pdf ho dimenticato di dichiarare che è stato usato il ***Composite Pattern*** per le classi
 	***IProdotto***, ***Prodotto***, ***ProdottoComposito*** nel package ***Model***
 
 

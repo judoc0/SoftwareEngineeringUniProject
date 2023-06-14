@@ -84,12 +84,12 @@ Dopo circa un anno, ho deciso di caricare il progetto su github, ma non prima di
 
 *	Nel caso d'uso della rimozione di un articolo, se l'articolo è un prodotto ed è presente in un prodotto composito
 	ora ti avvisa che non puoi eliminarlo senza prima rimuoverlo dal prodotto composito;
-	(prima provava ad eliminarlo dandoti errore)
+	(prima provava ad eliminarlo restituendo un errore)
 
 	
 
-*	***ItemListener*** spostato per stare insieme agli altri listener dalla classe 
-	***NewProdottoPanel*** a ***NewProdottoPanelListener***
+*	***ItemListener*** spostato per stare insieme agli altri listener (dalla classe 
+	***NewProdottoPanel*** a ***NewProdottoPanelListener***)
 
 
 *	Nella documentazione pdf ho dimenticato di dichiarare che è stato usato il ***Composite Pattern*** per le classi

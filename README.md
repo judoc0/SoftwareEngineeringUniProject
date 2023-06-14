@@ -14,7 +14,7 @@ Una grande catena di mobili e prodotti per la casa vuole creare il sistema MySho
 punti vendita per migliorare l’esperienza di acquisto della clientela.
 
 
-Per ulteriori informazioni rigurardo la traccia dell'elaborato software andare a vedere il file pdf [Traccia_elaborato_software_valida_da_Giugno_2021_a_Maggio_2022.pdf](Traccia_elaborato_software_valida_da_Giugno_2021_a_Maggio_2022.pdf)
+Per ulteriori informazioni rigurardo la traccia dell'elaborato software andare a vedere il file pdf [Traccia_elaborato_software_valida_da_Giugno_2021_a_Maggio_2022.pdf](Traccia_elaborato_software_valida_da_Giugno_2021_a_Maggio_2022.pdf).
 
 
 ---------------------------------------------------------------------------------------------------
@@ -40,7 +40,7 @@ composta da un unico documento con frontespizio e indice, contenente:
 
 6. ***Scrum sprint backlog*** e ***burndown chart***.
 
-Per consultare la doumentazione andare a vedere il file pdf [Progetto_PIS.pdf](Progetto_PIS.pdf)
+Per consultare la doumentazione andare a vedere il file pdf [Progetto_PIS.pdf](Progetto_PIS.pdf).
 
 
 --------------------------------------------------------------------------------------------------
@@ -60,13 +60,13 @@ Per utilizzare gli utenti usati per testare il programma:
 
 * ***Amministratore*** -> username: 3, password: 3
 
-Questo progetto è stato sviluppato utilizzando ***IntelliJ IDEA Community Edition***. Per poter eseguire correttamente il progetto utilizzando un IDE diverso come ***Eclipse***, assicurati di importare correttamente le librerie esterne da [Progetto/lib](Progetto/lib)
+Questo progetto è stato sviluppato utilizzando ***IntelliJ IDEA Community Edition***. Per poter eseguire correttamente il progetto utilizzando un IDE diverso come ***Eclipse***, assicurati di importare correttamente le librerie esterne da [Progetto/lib](Progetto/lib).
 
 --------------------------------------------------------------------------------------------------
 
 ###  Versione 2023
 
-Dopo circa un anno, ho deciso di caricare il progetto su github, ma non prima di aver fatto qualche piccolo aggiornamento
+Dopo circa un anno, ho deciso di caricare il progetto su github, ma non prima di aver fatto qualche piccolo aggiornamento:
 
 
 *	Il software utilizzava un account Gmail per inviare automaticamente eventuali email. A partire dal 30 maggio 2022, Google ha disabilito la funzione ***App meno sicure***, che ha provocato la cessazione 
@@ -79,21 +79,21 @@ Dopo circa un anno, ho deciso di caricare il progetto su github, ma non prima di
 
 *	Semplificazione della modalità di inserimento delle immagini rappresentative degli articoli attraverso 
 	la classe ***JFileChooser***, della libreria ***Swing*** di ***Java***, per creare una finestra di dialogo per la selezione dei file o delle directory da parte dell'utente.
-	(prima richiedevo di inserire a mano il percorso della foto)
+	(prima richiedevo di inserire a mano il percorso della foto).
 
 
 *	Nel caso d'uso della rimozione di un articolo, se l'articolo è un prodotto ed è presente in un prodotto composito
-	ora ti avvisa che non puoi eliminarlo senza prima rimuoverlo dal prodotto composito;
-	(prima provava ad eliminarlo restituendo un errore)
+	ora ti avvisa che non puoi eliminarlo senza prima rimuoverlo dal prodotto composito
+	(prima provava ad eliminarlo restituendo un errore).
 
 	
 
 *	***ItemListener*** spostato per stare insieme agli altri listener (dalla classe 
-	***NewProdottoPanel*** a ***NewProdottoPanelListener***)
+	***NewProdottoPanel*** a ***NewProdottoPanelListener***).
 
 
 *	Nella documentazione pdf ho dimenticato di dichiarare che è stato usato il ***Composite Pattern*** per le classi
-	***IProdotto***, ***Prodotto***, ***ProdottoComposito*** nel package ***Model***
+	***IProdotto***, ***Prodotto***, ***ProdottoComposito*** nel package ***Model***.
 
 
 
